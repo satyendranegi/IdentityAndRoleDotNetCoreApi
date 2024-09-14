@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Hx1JLkCnI1glT1FDtU+M1mFy5I3MVO2BYtRQ2w1be8=",
+  "Source": "AuthorizationUsingIdentity",
+  "BasePath": "_content/AuthorizationUsingIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
